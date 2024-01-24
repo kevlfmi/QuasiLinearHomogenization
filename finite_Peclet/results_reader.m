@@ -13,7 +13,7 @@ epsilon=0.1;
 ca=load('uvc_slt_C_CA-iter2.txt');
 va=load('uvc_slt_C_VA-iter2.txt');
 sto=load('uvc_slt_C_CA-iter0.txt');
-fs=load('dns_C.txt');
+fs=load('FS_C.txt');
 %------average FS on the membrane------------------------------------------
 fs(isnan(fs))=0;
 y=fs(:,2);
