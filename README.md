@@ -1,9 +1,9 @@
 # Quasi-Linear Homogenization for laminar flows and transport across permeable membranes
 Authors:
-Kevin Wittkowski, LFMI, EPF Lausanne
-Alberto Ponte, DICCA, Università di Genova
-Pier Giuseppe Ledda, DICAAR, Università di Cagliari
-Giuseppe Antonio Zampogna, LFMI, EPF Lausanne
+Kevin Wittkowski, LFMI, EPF Lausanne;
+Alberto Ponte, DICCA, Università di Genova;
+Pier Giuseppe Ledda, DICAAR, Università di Cagliari;
+Giuseppe Antonio Zampogna, LFMI, EPF Lausanne.
 
 The code provided in this repository performs the iterative homogenization procedure for laminar fluid flow and transport across a thin permeable membrane, described in
 LINK
