@@ -10,8 +10,6 @@ The code provided in this repository performs the iterative homogenization proce
 LINK
 
 The code corresponds to the examples
-1) only solvent flow, $` Re_L=400, \alpha=75°,\epsilon=0.1`$ ;
-2) fluid flow and solvent transport, $`Re_L=0, Pe_L=1000, \alpha=90°, \epsilon=0.1`$;
-
-Please consider citing our work
-""
+1) only fluid flow, $` Re_L=400, \alpha=75°,\epsilon=0.1`$ ;
+2) fluid flow and solute transport, $`Re_L=0, Pe_L=1000, \alpha=90°, \epsilon=0.1`$;
+provided in the reference
